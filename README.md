@@ -1,12 +1,113 @@
-<h1 align="center"> Hola 👋, soy Matias Coronel</h1>
-<h3 align="center">Frontend developer de Argentina</h3>
+# 👋 Hi, I'm Matías Coronel
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/matias-coronel-77a8b822b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matias-coronel-77a8b822b/" height="30" width="40" /></a>
-</p>
+Software Developer | Python | Flask | Typescript | React | Robotics | AI
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+🎓 Programming Technician Student
+🤖 Robotics Club Tutor
+🐍 Python Instructor
+🛠️ CNC Router Instructor
 
-<p></p>
+Passionate about software development, artificial intelligence, robotics, electronics, and engineering. I enjoy building projects that combine software and hardware to solve real-world problems.
+
+🎓 Estudiante de 2.º año de la Tecnicatura en Programación.
+
+Me apasiona crear soluciones que combinen software, electrónica y automatización. Disfruto aprender nuevas tecnologías, desarrollar proyectos prácticos y compartir conocimientos mediante la enseñanza.
+
+Actualmente me estoy especializando en desarrollo de software con Python, mientras continúo ampliando mis conocimientos en inteligencia artificial, robótica y sistemas embebidos.
+
+---
+
+## 💻 Tecnologías
+
+### Lenguajes
+
+* Python
+* JavaScript
+* TypeScript
+* SQL
+* C#
+
+### Backend
+
+* Flask
+* PostgreSQL
+* SQLAlchemy
+
+### Frontend
+
+* React
+* Tailwind CSS
+* HTML5
+* CSS3
+
+### Ciencia de Datos e IA
+
+* Pandas
+* TensorFlow
+
+### Herramientas
+
+* Git
+* GitHub
+* VS Code
+* Postman
+
+### CAD y Fabricación Digital
+
+* Blender
+* Unity
+* CNC Router
+* Impresión 3D
+
+---
+
+## 🚀 Actualmente
+
+* 📚 Estudiante de la Tecnicatura en Programación.
+* 🐍 Profesor de Introducción a Python.
+* 🤖 Tutor en un Club de Robótica.
+* 🪚 Profesor de CNC Router.
+* 🔧 Desarrollando proyectos con Flask y PostgreSQL.
+* 🤖 Aprendiendo Inteligencia Artificial y automatización.
+
+---
+
+## 🌱 Intereses
+
+Me interesa seguir creciendo en áreas como:
+
+* Desarrollo Backend
+* Inteligencia Artificial
+* Machine Learning
+* Robótica
+* Electrónica
+* Sistemas Embebidos
+* Automatización
+* Ingeniería de Software
+* Impresión 3D
+* Diseño CAD
+* Aeroespacial
+
+---
+
+## 📂 Algunos proyectos
+
+* 🛒 E-commerce desarrollado con Flask y PostgreSQL.
+* 📊 Dashboard de estadísticas y visualización de datos.
+* 💻 Clon de Netflix.
+* 📡 Proyectos de comunicación RF con Arduino y STM32.
+* 🤖 Robots educativos y de competicion desarrollados en el Club de Robótica.
+
+---
+
+## 🎯 Objetivo
+
+Busco seguir desarrollándome como Software Developer, participando en proyectos que me desafíen técnica y profesionalmente, especialmente aquellos relacionados con desarrollo backend, inteligencia artificial, automatización y robótica.
+
+---
+
+## 📫 Contacto
+
+- 💼 **LinkedIn:** [Matías Coronel](https://www.linkedin.com/in/matias-coronel-77a8b822b/)
+- 📧 **Email:** [5446matias@gmail.com](mailto:5446matias@gmail.com)
+
